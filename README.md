@@ -1,6 +1,6 @@
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
-## THANK YOU DONATION 
+## DONATORS
 
 - @drakenMY
 - @HarunYusriHashim
@@ -25,7 +25,7 @@
 - RASPBERRY PI3
 - DLINK DIR 842 C2
 - NETGEAR R6620
-- TOTOLINK X500R
+- TOTOLINK X5000R
 - X86-64
 
 ## OPENWRT PLUGIN 
