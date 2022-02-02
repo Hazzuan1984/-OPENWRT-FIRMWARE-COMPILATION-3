@@ -12,3 +12,8 @@
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
+
+# AutoCore
+svn co https://github.com/immortalwrt/immortalwrt/branches/openwrt-21.02/package/emortal/autocore package/lean/autocore
+rm -rf ./feeds/packages/utils/coremark
+svn co https://github.com/immortalwrt/packages/trunk/utils/coremark feeds/packages/utils/coremark
