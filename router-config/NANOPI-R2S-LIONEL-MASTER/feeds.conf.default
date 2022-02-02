@@ -7,3 +7,4 @@ src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
 src-git bypass https://github.com/kiddin9/openwrt-bypass.git
 src-git helmi https://github.com/helmiau/helmiwrt-packages.git
+src-git autocore https://github.com/MatJehey/autocore-arm-x86.git
