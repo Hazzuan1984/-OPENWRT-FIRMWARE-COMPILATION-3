@@ -49,9 +49,11 @@
 
 ## OPENWRT FIRMWARE LINK DOWNLOAD
 
-- https://github.com/izhamcaster/FIRMWARE-ROUTER-OPENWRT-1/releases
-- https://github.com/izhamcaster/FIRMWARE-ROUTER-OPENWRT-2/releases
-- https://github.com/izhamcaster/FIRMWARE-ROUTER-OPENWRT-3/releases
+- https://github.com/MatJehey/-OPENWRT-FIRMWARE-COMPILATION-1/releases
+- https://github.com/MatJehey/-OPENWRT-FIRMWARE-COMPILATION-2/releases
+- https://github.com/MatJehey/-OPENWRT-FIRMWARE-COMPILATION-3/releases
+- https://github.com/MatJehey/-OPENWRT-FIRMWARE-COMPILATION-4/releases
+- https://github.com/MatJehey/-OPENWRT-FIRMWARE-COMPILATION-5/releases
 
 ## Credits
 
