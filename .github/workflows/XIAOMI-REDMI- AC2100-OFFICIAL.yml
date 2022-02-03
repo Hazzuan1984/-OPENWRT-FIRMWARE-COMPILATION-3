@@ -18,10 +18,10 @@ on:
 env:
   REPO_URL: https://git.openwrt.org/openwrt/openwrt.git
   REPO_BRANCH: openwrt-21.02
-  FEEDS_CONF: router-config/XIAOMI-REDMI- AC2100-OFFICIAL/feeds.conf.default
-  CONFIG_FILE: router-config/XIAOMI-REDMI- AC2100-OFFICIAL/.config
-  DIY_P1_SH: router-config/XIAOMI-REDMI- AC2100-OFFICIAL/diy-part1.sh
-  DIY_P2_SH: router-config/XIAOMI-REDMI- AC2100-OFFICIAL/diy-part2.sh
+  FEEDS_CONF: router-config/XIAOMI-REDMI-AC2100-OFFICIAL/feeds.conf.default
+  CONFIG_FILE: router-config/XIAOMI-REDMI-AC2100-OFFICIAL/.config
+  DIY_P1_SH: router-config/XIAOMI-REDMI-AC2100-OFFICIAL/diy-part1.sh
+  DIY_P2_SH: router-config/XIAOMI-REDMI-AC2100-OFFICIAL/diy-part2.sh
   UPLOAD_BIN_DIR: true
   UPLOAD_FIRMWARE: true
   UPLOAD_COWTRANSFER: false
